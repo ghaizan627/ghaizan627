@@ -2,8 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on Amazon
-- 📫 How to reach me Whatsapp & Instagram (gejot)
-- 😄 Pronouns: he
+- 📫 How to reach me Whatsapp & Instagram(ghaizanaf)
+- 😄 Pronouns: zan
 - ⚡ Fun fact: Im handsome and corious
 
 <!---
