@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-![https://www.instagram.com/ghaizanaf/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghaizanaf/)
