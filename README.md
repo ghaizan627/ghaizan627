@@ -1,6 +1,4 @@
-# Hello I'm Ghaizan👋😊
-
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29rZjlueHpyMG4yd2ZvOXdzZWZlcjIxZHJoMDhkbm15ZDl1eDN5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+![](github-header-banner.png)
 
 <!--
 **ghaizan627/ghaizan627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
