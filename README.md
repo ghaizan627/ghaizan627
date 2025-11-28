@@ -1,5 +1,7 @@
 # Hello I'm Ghaizan👋😊
+
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29rZjlueHpyMG4yd2ZvOXdzZWZlcjIxZHJoMDhkbm15ZDl1eDN5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+
 <!--
 **ghaizan627/ghaizan627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning **Java Script**\
-😄 Pronouns : Jan / Zan / Him / He\
+📕 I’m currently learning **Java Script**\
+🗣️ Pronouns : Jan / Zan / Him / He\
 ⚡ Fun fact : I'm curious , handsome, and firm
