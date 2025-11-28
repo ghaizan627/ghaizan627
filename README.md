@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning something new
+😄 Pronouns : Jan / Zan / Him / He
+⚡ Fun fact : I'm curious , handsome, and firm
