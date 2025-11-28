@@ -1,4 +1,4 @@
-## Hello 👋😊
+# Hello 👋😊
 
 <!--
 **ghaizan627/ghaizan627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning something new
-😄 Pronouns : Jan / Zan / Him / He
-⚡ Fun fact : I'm curious , handsome, and firm
+🌱 I’m currently learning **Java Script**\
+😄 Pronouns : Jan / Zan / Him / He\
+⚡ Fun fact : I'm curious , handsome, and firm\
