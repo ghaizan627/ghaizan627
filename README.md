@@ -1,6 +1,6 @@
 # Hi, I'm Ghaizan! 👋
 
-**_Backend enthusiast_**
+**_Backend enthusiast_**\
 ![gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eThhZWcxYnBxYWRyMW81eHp3dm45dG15Z25teGo0Y2xsMTd4NXd3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif)
 
 <!--
