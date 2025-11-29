@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaizan627/ghaizan627/main/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghaizan627/main/ghaizan627/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ghaizan627/ghaizan627/main/output/pacman-contribution-graph.svg">
+
 </picture>
 
 <img src="https://raw.githubusercontent.com/ghaizan627/ghaizan627/output/snake.svg" alt="Snake animation" />
