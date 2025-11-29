@@ -30,6 +30,4 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghaizanaf/) [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ghaizanaf) [![](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@ghaizanaf)
 
-### Play game with me
 
-<img src="https://raw.githubusercontent.com/ghaizan627/ghaizan627/output/snake.svg" alt="Snake animation" />
