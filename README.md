@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 📕 I’m currently learning **Java Script**\
 🗣️ Pronouns : Jan / Zan / Him / He\
-⚡ Fun fact : I'm curious , handsome, and firm
+💡 Fun fact : I'm curious , handsome, and firm
 
 ### Skills
 
