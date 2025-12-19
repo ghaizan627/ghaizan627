@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕 I’m currently learning **Java Script**\
+📕 I’m currently learning **PHP**\
 🗣️ Pronouns : Jan / Zan / Him / He\
 💡 Fun fact : I'm curious , handsome, and firm
 
