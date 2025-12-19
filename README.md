@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 💡 Fun fact : I'm curious , handsome, and firm
 
 ### Skills
-![image]([]https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 
 ### Connect with me
 
