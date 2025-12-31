@@ -1,24 +1,78 @@
-# 💫 About Me:
-🌙 Hi, I’m Ghaizan!<br>💻 I love backend stuff<br>⚡ JavaScript and PHP are the languages I’m most comfortable with.<br>🔧 Trying to master APIs & servers<br>🐱 Powered by gym and good vibes
+# 👋 Hi, I'm Ghaizan!
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gejot_af) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghaizanaf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ghaizanaf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghaizanaf2007@gmail.com) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ghaizan627&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ghaizan627&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghaizan627&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ghaizan627&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ghaizan627&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💻 **Backend Enthusiast**  
+🎯 Fokus membangun sistem yang rapi, aman, dan scalable  
+🚀 PHP & JavaScript Backend Developer (in progress)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ghaizan627&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+Saya adalah siswa **TKJ (Teknik Komputer dan Jaringan)** yang sedang mendalami **Backend Development**.  
+Saya nyaman menggunakan **PHP dan JavaScript**, serta berfokus mempelajari framework dan library backend modern.
+
+Saya tertarik pada:
+- Backend logic
+- Database & API
+- Authentication & validation
+- Clean code
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Bahasa Pemrograman
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+### 🔹 Backend & Framework
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+---
+
+### 🔹 Frontend (Pendukung)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript DOM](https://img.shields.io/badge/JavaScript-DOM-yellow?style=for-the-badge)
+
+---
+
+### 🔹 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+---
+
+### 🔹 Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge)
+
+---
+
+## 📚 Currently Learning
+- Laravel (MVC, Routing, Validation)
+- Backend Security (Hashing, Auth)
+- REST API Development
+- Database Design
+
+---
+
+## 🎯 Goals
+- 🚀 Menjadi **Backend Developer yang solid**
+- 🧠 Menguasai **PHP & JavaScript**
+- 🏗️ Membangun project backend nyata (CRUD, API, Auth)
+
+---
+
+## 📈 GitHub Stats
+> Konsistensi > Kecepatan 💪
+
+---
+
+⭐ *Learning step by step, building backend one project at a time.*
