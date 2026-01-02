@@ -8,17 +8,16 @@
 
 ## 🧠 About Me
 I am a **TKJ (Teknik Komputer dan Jaringan)** student who is deeply interested in **Backend Development**.  
-I’m comfortable working with **PHP and JavaScri**
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I’m comfortable working with **PHP and JavaScript**
+
 -
 
 ### 🔹 Backend & Framework
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
----
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🔹 Frontend (Pendukung)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
