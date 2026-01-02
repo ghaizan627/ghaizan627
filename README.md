@@ -17,14 +17,14 @@ Saya tertarik pada:
 - Clean code
 
 ---
+-## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### 🔹 Bahasa Pemrograman
+### 🔹 Bahasa Pemrograman & Tools
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
----
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+-
 
 ### 🔹 Backend & Framework
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
