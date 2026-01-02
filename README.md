@@ -1,27 +1,14 @@
 # 👋 Hi, I'm Ghaizan!
 
 💻 **Backend Enthusiast**  
-🎯 Fokus membangun sistem yang rapi, aman, dan scalable  
+🎯 Focused on building clean, secure, and scalable systems  
 🚀 PHP & JavaScript Backend Developer (in progress)
 
 ---
 
 ## 🧠 About Me
-Saya adalah siswa **TKJ (Teknik Komputer dan Jaringan)** yang sedang mendalami **Backend Development**.  
-Saya nyaman menggunakan **PHP dan JavaScript**, serta berfokus mempelajari framework dan library backend modern.
-
-Saya tertarik pada:
-- Backend logic
-- Database & API
-- Authentication & validation
-- Clean code
-
----
--## 🛠️ Tech Stack
-
-### 🔹 Bahasa Pemrograman & Tools
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+I am a **TKJ (Teknik Komputer dan Jaringan)** student who is deeply interested in **Backend Development**.  
+I’m comfortable working with **PHP and JavaScri**
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 -
