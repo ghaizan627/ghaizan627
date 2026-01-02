@@ -9,8 +9,7 @@
 ## 🧠 About Me
 I am a **TKJ (Teknik Komputer dan Jaringan)** student who is deeply interested in **Backend Development**.  
 I’m comfortable working with **PHP and JavaScript**
-
--
+---
 
 ### 🔹 Backend & Framework
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
