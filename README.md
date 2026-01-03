@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ghaizan!
-![My Favorite GIF](![1767415307015259688487509095277](https://github.com/user-attachments/assets/6b7b848f-44d9-463d-aedb-fe2fb1224bb9)
-)
+![17674153733737276307334204022693](https://github.com/user-attachments/assets/1e285a8b-1848-47b3-ba10-a28294d8a03d)
+
+
 
 💻 **Backend Enthusiast**  
 🎯 Focused on building clean, secure, and scalable systems  
