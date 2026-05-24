@@ -1,60 +1,45 @@
 # 👋 Hi, I'm Ghaizan!
-![17674153733737276307334204022693](https://github.com/user-attachments/assets/1e285a8b-1848-47b3-ba10-a28294d8a03d)
 
-
-
-💻 **Backend Enthusiast**  
-🎯 Focused on building clean, secure, and scalable systems  
-🚀 PHP & JavaScript Backend Developer (in progress)
+💻 Backend Enthusiast  
+🎯 Focused on learning and building backend systems  
+🚀 Currently learning JavaScript & Backend Development
 
 ---
 
 ## 🧠 About Me
-I am a TKJ (Teknik Komputer dan Jaringan) student who is deeply interested in Backend Development.  
-I’m comfortable working with **JavaScript**
----
-
-### 🔹 Backend & Framework
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-### 🔹 Frontend (Pendukung)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript DOM](https://img.shields.io/badge/JavaScript-DOM-yellow?style=for-the-badge)
+I am interested in Backend Development and APIs.  
+Currently learning how to build backend applications using JavaScript and modern backend tools.
 
 ---
 
-### 🔹 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+## ⚙️ Backend Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-00599C?style=flat-square)
 
 ---
 
-### 🔹 Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge)
+## 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
+## 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-5C2D91?style=flat-square)
+
+---
 
 ## 🎯 Goals
-- 🚀 Menjadi **Backend Developer yang solid**
-- 🧠 Menguasai **JavaScript**
-- 🏗️ Membangun project backend nyata (CRUD, API, Auth)
+- Become a solid Backend Developer
+- Master JavaScript & Express.js
+- Build real backend projects (CRUD, Auth, REST API)
 
 ---
 
-## 📈 GitHub Stats
-> Konsistensi > Kecepatan 💪
-
----
-
-⭐ *Learning step by step, building backend one project at a time.*
+⭐ Learning step by step, building backend one project at a time.
