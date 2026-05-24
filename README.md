@@ -10,17 +10,15 @@
 ---
 
 ## 🧠 About Me
-I am a **TKJ (Teknik Komputer dan Jaringan)** student who is deeply interested in **Backend Development**.  
-I’m comfortable working with **PHP and JavaScript**
+I am a TKJ (Teknik Komputer dan Jaringan) student who is deeply interested in Backend Development.  
+I’m comfortable working with **JavaScript**
 ---
 
 ### 🔹 Backend & Framework
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![FrankenPHP](https://img.shields.io/badge/FrankenPHP-000000?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -42,22 +40,14 @@ I’m comfortable working with **PHP and JavaScript**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge)
 
 ---
 
-## 📚 Currently Learning
-- Laravel (MVC, Routing, Validation)
-- Backend Security (Hashing, Auth)
-- REST API Development
-- Database Design
-
----
 
 ## 🎯 Goals
 - 🚀 Menjadi **Backend Developer yang solid**
-- 🧠 Menguasai **PHP & JavaScript**
+- 🧠 Menguasai **JavaScript**
 - 🏗️ Membangun project backend nyata (CRUD, API, Auth)
 
 ---
