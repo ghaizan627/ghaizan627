@@ -13,6 +13,7 @@ Currently learning how to build backend applications using JavaScript and modern
 ---
 
 ## ⚙️ Backend Stack
+![Python](https://img.shields.io/badge/Python-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
