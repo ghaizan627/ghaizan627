@@ -47,4 +47,6 @@ Currently learning how to build backend applications using JavaScript and modern
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ghaizan627&theme=tokyonight&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghaizan627&layout=compact&theme=tokyonight)
+
 ⭐ Learning step by step, building backend one project at a time.
