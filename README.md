@@ -47,6 +47,6 @@ Currently learning how to build backend applications using JavaScript and modern
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ghaizan627&theme=tokyonight&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ghaizan627&theme=tokyonight&margin-w=15)(https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghaizan627&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ⭐ Learning step by step, building backend one project at a time.
