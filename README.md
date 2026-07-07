@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ghaizan!
-Backend Enthusiast
-💻![Profile Views](https://komarev.com/ghpvc/?username=ghaizan627&color=blueviolet&style=for-the-badge)   
+Backend Enthusiast💻
+![Profile Views](https://komarev.com/ghpvc/?username=ghaizan627&color=blueviolet&style=for-the-badge)   
 🎯 Focused on learning and building backend systems  
 🚀 Currently learning JavaScript & Backend Development
 
