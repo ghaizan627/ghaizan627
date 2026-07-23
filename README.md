@@ -51,4 +51,6 @@ Currently learning how to build backend applications using JavaScript and modern
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghaizan627&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+<img src="https://raw.githubusercontent.com/ghaizan627/ghaizan627/output/snake.svg" alt="Snake animation" />
+
 ⭐ Learning step by step, building backend one project at a time.
