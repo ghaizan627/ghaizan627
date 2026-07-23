@@ -3,7 +3,7 @@
 &nbsp;&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/ghaizan627?color=4A90D9&logo=github&style=flat-square&label=Followers)](https://github.com/rozannouval)
 
-Backend Enthusiast
+**Backend Enthusiast**
 
 Focused on learning and building backend systems  
 Currently learning JavaScript & Backend Development
