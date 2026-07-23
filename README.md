@@ -40,10 +40,6 @@ Currently learning how to build backend applications using JavaScript and modern
 
 ---
 
-## Goals
-- Become a solid Backend Developer
-- Master JavaScript & Express.js
-- Build real backend projects (CRUD, Auth, REST API)
 
 ---
 
