@@ -30,4 +30,4 @@ I am interested in Backend Development and APIs. Currently learning how to build
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-5C2D91?style=flat-square)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ghaizan627&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ghaizan627&theme=github_dark_dimmed&hide_border=true)
