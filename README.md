@@ -29,5 +29,3 @@ I am interested in Backend Development and APIs. Currently learning how to build
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-5C2D91?style=flat-square)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ghaizan627&theme=github_dark_dimmed&hide_border=true)
